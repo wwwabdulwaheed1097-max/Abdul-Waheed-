@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Social",
+  "description": "A professional, highly polished social media platform featuring dynamic feeds, messaging, short videos, stories, and rich interactions.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
